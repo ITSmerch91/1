@@ -1,0 +1,10 @@
+{
+	"name": "PsyEd",
+	"short_name": "PsyEd",
+	"theme_color": "#36859B",
+	"background_color": "#36859B",
+	"display": "browser",
+	"orientation": "portrait",
+	"scope": "/",
+	"start_url": "https://www.psixolog.uz/"
+}
